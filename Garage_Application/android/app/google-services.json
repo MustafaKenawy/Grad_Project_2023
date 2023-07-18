@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "150375112117",
+    "firebase_url": "https://nodemcu-691e1-default-rtdb.firebaseio.com",
+    "project_id": "nodemcu-691e1",
+    "storage_bucket": "nodemcu-691e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150375112117:android:489b44dff46d736a8d8dfc",
+        "android_client_info": {
+          "package_name": "com.example.garage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150375112117-g2h49og990pmnuod72tep1qoaffhqhf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDozLoAqVkZUW4BjCoTOjXT_omLtRsuK2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150375112117-g2h49og990pmnuod72tep1qoaffhqhf6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
